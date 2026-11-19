@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "marketing-skills",
+  "version": "0.1.1",
+  "description": "9 个可独立使用的中文营销 Skills，覆盖问题诊断、洞察、定位、Campaign、渠道、转化、出海、证据审查和项目编排。",
+  "author": {
+    "name": "Marvin"
+  },
+  "license": "MIT"
+}
